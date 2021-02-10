@@ -1,8 +1,8 @@
 
-### Hi there, I am Sven
+## Hi there, I am Sven
 
 <!-- CONTACT -->
-## Contact
+### Contact
 
 Sven Wacker - s.u.wacker@outlook.de
 
