@@ -1,4 +1,12 @@
+
 ### Hi there, I am Sven
+
+<!-- CONTACT -->
+## Contact
+
+Sven Wacker - s.u.wacker@outlook.de
+
+linkedIn: https://www.linkedin.com/in/sven-wacker/
 
 <!--
 **svenWacker/svenWacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
