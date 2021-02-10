@@ -10,7 +10,7 @@
 
 Sven Wacker
 
-s.u.wacker@outlook.de
+[e-mail](mailto: s.u.wacker@outlook.de)
 
 [linkedin](https://www.linkedin.com/in/sven-wacker-17764a119/)
 
