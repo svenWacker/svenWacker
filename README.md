@@ -1,7 +1,7 @@
 <!-- Hello -->
-# Hi there, I am Sven
+## Hi there, I am Sven
 <!-- Description -->
-## Description
+### Description
 
 - Electrical Engineer, Project Manager
 - Now learning Web and Software Development
