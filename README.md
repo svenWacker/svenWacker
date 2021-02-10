@@ -8,9 +8,10 @@
 <!-- CONTACT -->
 ### Contact
 
-Sven Wacker - s.u.wacker@outlook.de
+Sven Wacker
+[e-mail](s.u.wacker@outlook.de)
 
-linkedIn: https://www.linkedin.com/in/sven-wacker/
+[linkedin](https://www.linkedin.com/in/sven-wacker-17764a119/)
 
 <!--
 **svenWacker/svenWacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
