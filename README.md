@@ -27,7 +27,7 @@
 
 <!-- CONTACT -->
 
-<h3>Contact</h3>
+<h2>Contact</h2>
 
 [e-mail](mailto:s.u.wacker@outlook.de)
 
