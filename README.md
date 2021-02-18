@@ -15,12 +15,12 @@
 
 <h2>Description</h2>
 
-<h3>Former Life</h3>
+<h3>Former Life
 
 - Electrical Engineer
 - Specialist for ceramic-to-metal assemblies
 - Project, Product, Sales and Business Development Manager
-
+</h3>
 <h3>Now</h3>
 
 <h3> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a></h3>
