@@ -1,11 +1,16 @@
 <!-- Hello -->
-## Hi there, I am Sven
+
+## Hi there, I am Sven Wacker
+
 <!-- Description -->
+
 ### Description
 
 - Electrical Engineer, Project Manager
 - Now learning Web and Software Development
+
 <!-- CONTACT -->
+
 ### Contact
 
 Sven Wacker
