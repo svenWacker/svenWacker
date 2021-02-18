@@ -1,7 +1,7 @@
 <!-- Hello -->
 
 <h1>Hi there, I am Sven <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
-<img align='right' src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="246">
+<img align='right' src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif" width="222">
 
 <!-- Badges -->
 
