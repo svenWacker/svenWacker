@@ -1,23 +1,37 @@
 <!-- Hello -->
 
-## Hi there, I am Sven Wacker
+<h1>Hi there, I am Sven <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25"></h1>
+<img align='right' src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="135">
+
+<!-- Badges -->
+
+[![Linkedin: svenwacker](https://img.shields.io/badge/-svenwacker-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sven-wacker-17764a119/)](https://www.linkedin.com/in/sven-wacker-17764a119/)
+
+[![GitHub followers](https://img.shields.io/github/followers/svenwacker?style=social)](https://github.com/svenwacker)
+
+<!--[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://svenwacker.com/)](https://svenwacker.com/)-->
 
 <!-- Description -->
 
-### Description
+<h2>Description</h2>
 
-- Electrical Engineer, Project Manager
-- Now learning Web and Software Development
+<h3>Former Life</h3>
+
+- Electrical Engineer
+- Specialist for ceramic-to-metal assemblies
+- Project, Product, Sales and Business Development Manager
+
+<h3>Now</h3>
+
+<h3> WEB-DEV Student @ <a href="https://digitalcareerinstitute.org/">Digital Career Institue</a></h3>
 
 <!-- CONTACT -->
 
-### Contact
-
-Sven Wacker
+<h3>Contact</h3>
 
 [e-mail](mailto:s.u.wacker@outlook.de)
 
-[linkedin](https://www.linkedin.com/in/sven-wacker-17764a119/)
+<!--[linkedin](https://www.linkedin.com/in/sven-wacker-17764a119/)-->
 
 <!--
 **svenWacker/svenWacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
