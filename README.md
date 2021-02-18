@@ -16,10 +16,10 @@
 <h2>Description</h2>
 
 <h3>Former Life</h3>
-<div style="text-align: justify"> <h3>
+
 - Electrical Engineer
 - Specialist for ceramic-to-metal assemblies
-- Project, Product, Sales and Business Development Manager</h3></div>
+- Project, Product, Sales and Business Development Manager
 
 <h3>Now</h3>
 
