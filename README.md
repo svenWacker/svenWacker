@@ -17,9 +17,9 @@
 
 <h3>Former Life</h3>
 <h2>
-- Electrical Engineer
-- Specialist for ceramic-to-metal assemblies
-- Project, Product, Sales and Business Development Manager
+- Electrical Engineer  
+- Specialist for ceramic-to-metal assemblies  
+- Project, Product, Sales and Business Development Manager  
 </h2>
 <h3>Now</h3>
 
